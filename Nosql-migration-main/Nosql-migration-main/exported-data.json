@@ -1,0 +1,60 @@
+[
+    {
+        "order_id": 1,
+        "user": {
+            "user_id": 1,
+            "name": "Alice",
+            "city": "Paris"
+        },
+        "date": "2024-01-10",
+        "items": [
+            {
+                "product": "Laptop",
+                "price": 1200.00,
+                "quantity": 1
+            },
+            {
+                "product": "Headphones",
+                "price": 150.00,
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "order_id": 2,
+        "user": {
+            "user_id": 1,
+            "name": "Alice",
+            "city": "Paris"
+        },
+        "date": "2024-01-15",
+        "items": [
+            {
+                "product": "Book",
+                "price": 30.00,
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "order_id": 3,
+        "user": {
+            "user_id": 2,
+            "name": "Bob",
+            "city": "Lyon"
+        },
+        "date": "2024-01-20",
+        "items": [
+            {
+                "product": "Chair",
+                "price": 200.00,
+                "quantity": 1
+            },
+            {
+                "product": "Headphones",
+                "price": 150.00,
+                "quantity": 1
+            }
+        ]
+    }
+]
